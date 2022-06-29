@@ -1,5 +1,5 @@
 # jdrf_autoplier
-
+Please read following sentences.
 
 ## Setup a virtual environment with conda
 The conda package and environment manager is included in all versions of
